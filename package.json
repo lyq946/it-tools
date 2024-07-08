@@ -17,7 +17,7 @@
   "license": "GNU GPLv3",
   "repository": {
     "type": "git",
-    "url": "https://github.com/CorentinTh/it-tools"
+    "url": "https://it.cxytools.com"
   },
   "scripts": {
     "dev": "vite",
