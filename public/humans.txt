@@ -1,2 +1,2 @@
 /* TEAM */
-Site: https://it.cxytools.com
+Site: https://tools.cxyroad.com

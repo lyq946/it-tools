@@ -19,14 +19,14 @@ const { t } = useI18n();
 <!--        <ColoredCard :title="$t('home.follow.title')" :icon="Heart">
           {{ $t('home.follow.p1') }}
           <a
-            href="https://it.cxytools.com"
+            href="https://tools.cxyroad.com"
             rel="noopener"
             target="_blank"
             :aria-label="$t('home.follow.githubRepository')"
           >GitHub</a>
           {{ $t('home.follow.p2') }}
           <a
-            href="https://it.cxytools.com"
+            href="https://tools.cxyroad.com"
             rel="noopener"
             target="_blank"
             :aria-label="$t('home.follow.twitterAccount')"

@@ -63,7 +63,7 @@ const tools = computed<ToolCategory[]>(() => [
           <div>
             IT-Tools
 
-            <!-- <c-link target="_blank" rel="noopener" :href="`https://it.cxytools.com/v${version}`">
+            <!-- <c-link target="_blank" rel="noopener" :href="`https://tools.cxyroad.com/v${version}`">
               v{{ version }}
             </c-link>
 
@@ -73,7 +73,7 @@ const tools = computed<ToolCategory[]>(() => [
                 target="_blank"
                 rel="noopener"
                 type="primary"
-                :href="`https://it.cxytools.com/${commitSha}`"
+                :href="`https://tools.cxyroad.com/${commitSha}`"
               >
                 {{ commitSha }}
               </c-link>
@@ -81,8 +81,8 @@ const tools = computed<ToolCategory[]>(() => [
           </div>
           <div>
             © {{ new Date().getFullYear() }}
-            <c-link target="_blank" rel="noopener" href="https://it.cxytools.com">
-              it.cxytools.com
+            <c-link target="_blank" rel="noopener" href="https://tools.cxyroad.com">
+              tools.cxyroad.com
             </c-link>
           </div>
         </div>

@@ -9,7 +9,7 @@ const errorCorrectionLevel = ref<QRCodeErrorCorrectionLevel>('medium');
 
 const errorCorrectionLevels = ['low', 'medium', 'quartile', 'high'];
 
-const text = ref('https://it.cxytools.com');
+const text = ref('https://tools.cxyroad.com');
 const { qrcode } = useQRCode({
   text,
   color: {

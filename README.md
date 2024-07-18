@@ -1,6 +1,6 @@
 ![logo](.github/logo.png)
 
-Useful tools for developer and people working in IT. [Have a look !](https://it.cxytools.com).
+Useful tools for developer and people working in IT. [Have a look !](https://tools.cxyroad.com).
 
 ## Functionalities and roadmap
 
