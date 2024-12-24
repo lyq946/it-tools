@@ -21,20 +21,20 @@ home:
     githubRepository: 'GitHub 仓库'
     twitter: 'Twitter 账号'
     twitterAccount: 'Twitter 账号'
-    about: '关于 IT-Tools'
+    about: '关于 Dev-Tools-Hub'
     aboutLabel: '关于'
     darkMode: '深色模式'
     lightMode: '浅色模式'
     mode: '颜色模式'
 about:
   content: >
-    # 关于 IT-Tools
+    # 关于 Dev-Tools-Hub
 
-    IT-Tools 汇集了对开发人员和 IT 从业者有用的工具。如果对您有帮助，请将其分享给您的朋友，并且添加到收藏夹中！
+    Dev-Tools-Hub 汇集了对开发人员和 IT 从业者有用的工具。如果对您有帮助，请将其分享给您的朋友，并且添加到收藏夹中！
 
     ## 技术
 
-    IT-Tools 采用 Vue.js（Vue 3）和 Naive UI 组件库开发，并由 Vercel 托管和持续部署。
+    Dev-Tools-Hub 采用 Vue.js（Vue 3）和 Naive UI 组件库开发，并由 Vercel 托管和持续部署。
 
     ## 发现了 Bug？缺少工具？
 

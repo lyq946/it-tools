@@ -7,33 +7,33 @@ home:
   toggleMenu: 'Menu'
   home: Accueil
   uiLib: 'UI Lib'
-  buyMeACoffee: 'Soutenez IT-Tools'
+  buyMeACoffee: 'Soutenez Dev-Tools-Hub'
   follow:
-    title: 'Vous aimez it-tools ?'
+    title: 'Vous aimez dev-tools-hub ?'
     p1: 'Soutenez-nous avec une star sur'
-    githubRepository: "le dépôt GitHub d'IT-Tools"
+    githubRepository: "le dépôt GitHub d'Dev-Tools-Hub"
     p2: 'ou suivez-nous sur'
-    twitterAccount: "le compte Twitter d'IT-Tools"
+    twitterAccount: "le compte Twitter d'Dev-Tools-Hub"
     thankYou: 'Merci !'
   nav:
     github: 'Dépôt GitHub'
-    githubRepository: "Dépôt GitHub d'IT-Tools"
+    githubRepository: "Dépôt GitHub d'Dev-Tools-Hub"
     twitter: 'Compte Twitter'
-    twitterAccount: "Compte Twitter d'IT-Tools"
-    about: "À propos d'IT-Tools"
+    twitterAccount: "Compte Twitter d'Dev-Tools-Hub"
+    about: "À propos d'Dev-Tools-Hub"
     aboutLabel: 'À propos'
     darkMode: 'Mode sombre'
     lightMode: 'Mode clair'
     mode: 'Basculer le mode sombre/clair'
 about:
   content: >
-    # À propos de IT-Tools
+    # À propos de Dev-Tools-Hub
 
     Ce merveilleux site, regroupe des outils utiles pour les développeurs et les personnes travaillant dans l'informatique. Si vous le trouvez utile, n'hésitez pas à le partager et n'oubliez pas de le mettre dans vos favoris !
 
     ## Technologies
 
-    IT Tools est fait en Vue.js (Vue 3) avec la bibliothèque de composants Naive UI et est hébergé et déployé en continu par Vercel. 
+    Dev Tools Hub est fait en Vue.js (Vue 3) avec la bibliothèque de composants Naive UI et est hébergé et déployé en continu par Vercel. 
 
     ## Vous avez trouvé un bug ? Un outil manque ?
 

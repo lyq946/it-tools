@@ -61,7 +61,7 @@ const tools = computed<ToolCategory[]>(() => [
 
         <div class="footer">
           <div>
-            IT-Tools
+            Dev-Tools-Hub
 
             <!-- <c-link target="_blank" rel="noopener" :href="`https://tools.cxyroad.com/v${version}`">
               v{{ version }}
