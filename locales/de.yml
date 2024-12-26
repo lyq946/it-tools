@@ -14,28 +14,28 @@ home:
   toggleMenu: Menü umschalten
   home: Startseite
   uiLib: UI-Bibliothek
-  support: Unterstütze die Entwicklung von IT-Tools
+  support: Unterstütze die Entwicklung von Dev-Tools-Hub
   buyMeACoffee: Kauf mir einen Kaffee
   follow:
-    title: Magst du IT-Tools?
+    title: Magst du Dev-Tools-Hub?
     p1: Gib uns einen Stern auf
-    githubRepository: IT-Tools GitHub-Repository
+    githubRepository: Dev-Tools-Hub GitHub-Repository
     p2: oder folge uns auf
-    twitterAccount: IT-Tools Twitter-Konto
+    twitterAccount: Dev-Tools-Hub Twitter-Konto
     thankYou: Vielen Dank!
   nav:
     github: GitHub-Repository
-    githubRepository: IT-Tools GitHub-Repository
+    githubRepository: Dev-Tools-Hub GitHub-Repository
     twitter: Twitter-Konto
-    twitterAccount: IT-Tools Twitter-Konto
-    about: Über IT-Tools
+    twitterAccount: Dev-Tools-Hub Twitter-Konto
+    about: Über Dev-Tools-Hub
     aboutLabel: Über
     darkMode: Dunkelmodus
     lightMode: Hellmodus
     mode: Wechseln zwischen dunklem/hellem Modus
 about:
   content: >
-    # Über IT-Tools
+    # Über Dev-Tools-Hub
 
     Diese wunderbare Website, sammelt nützliche Tools für
     Entwickler und Menschen, die in der IT arbeiten. Wenn du sie nützlich
@@ -45,7 +45,7 @@ about:
 
     ## Technologien
 
-    IT-Tools wurde mit Vue.js (Vue 3) und der Naive UI-Komponentenbibliothek
+    Dev-Tools-Hub wurde mit Vue.js (Vue 3) und der Naive UI-Komponentenbibliothek
     erstellt und wird von Vercel gehostet und kontinuierlich bereitgestellt. 
 
     ## Einen Fehler gefunden? Ein Tool fehlt?
